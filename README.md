@@ -46,8 +46,6 @@ This structured approach improves generalization and reduces training instabilit
 
 - `AMAN_UGP_Report.pdf` – Complete project report including methodology, equations, experiments, and results.
 - `UGP.pptx` – Project presentation slides.
-- (Add code files here if applicable.)
-
 ---
 
 ## ⚙️ Methodology
