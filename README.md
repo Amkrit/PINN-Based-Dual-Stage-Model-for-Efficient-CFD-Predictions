@@ -83,11 +83,3 @@ This structured approach improves generalization and reduces training instabilit
 - Physics-Informed Neural Networks (PINNs)
 
 ---
-
-## 🚀 How to Use
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/Amkrit/PINN-Based-Dual-Stage-Model-for-Efficient-CFD-Predictions.git
-cd PINN-Based-Dual-Stage-Model-for-Efficient-CFD-Predictions
